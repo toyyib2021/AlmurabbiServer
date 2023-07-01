@@ -4,7 +4,7 @@
     "scripts": {
         "build": "kotlin Application.kt",
         "test": "echo \"No test specified\" && exit 1",
-        "start": "kotlin Application.kt"
+        "start": "node index.js"
     },
     "repository": {
         "type": "git",
