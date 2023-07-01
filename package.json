@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "echo \"com.schooladmin.ApplicationKt\" && exit 1",
+        "build": "echo \"com.schooladmin.main\" && exit 1",
         "test": "echo \"com.schooladmin.ApplicationTestKt\" && exit 1",
         "start": "node index.js"
     },
