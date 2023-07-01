@@ -18,9 +18,5 @@ fun Application.module() {
     configureRouting()
 }
 
-fun database() = Database.connect(
-    url = "jdbc:mysql://localhost:3306/pk",
-    user = "root",
-    password = "@Abibat1234"
-)
+
 
