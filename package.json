@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "echo \"Application.kt\" && exit 1",
+        "build": "kotlin Application.kt",
         "test": "echo \"No test specified\" && exit 1",
         "start": "node index.js"
     },
